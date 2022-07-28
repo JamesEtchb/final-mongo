@@ -1,0 +1,38 @@
+{
+    "rubs":
+    [
+        {
+            "name": "Spicy rub",
+            "ingredients": "2tbsp cayenne, 1tbsp dark chili powder, 2tbsp cumin, 1tsp garlic powder, 1tsp onion powder, 1tsp ground cinnamon, 1/2tsp ground cloves",
+            "recipe": "mix everything together and rub into meat to be smoked or cooked"
+        },
+        {
+            "name": "rib rub",
+            "ingredients": "2tbsp cayenne, 2tbsp dark chili powder, 1tbsp brown sugar, 2tbsp cumin, 2tbsp ground corriander, 1tbsp ground cinammon, 1tsp allspice",
+            "recipe": "mix everything together and rub into meat to be smoked or cooked"
+        },
+        {
+            "name": "savour and sweet",
+            "ingredients": "2 tbsp ground caraway, 1 tbsp ground cumin, 1 tsp chilli flakes, 1 tsp dried parsley, 1 tsp dried tarragon",
+            "recipe": "mix everything together and rub into meat to be smoked or cooked"
+        },
+        {
+            "name": "woodsy flavor",
+            "ingredients": "2 tbsp ground cumin, 1 tbsp ground coriander, 1 tsp ground cardamom, 1 tsp ground turmeric",
+            "recipe": "mix everything together and rub into meat to be smoked or cooked"
+        }
+    ],
+    "Sauces":
+    [
+        {
+            "name": "BBQ sauce",
+            "ingredients":"",
+            "recipe":""
+        },
+        {
+            "name": "Buffallo sauce",
+            "ingredients":"",
+            "recipe":""
+        }
+    ]
+}
